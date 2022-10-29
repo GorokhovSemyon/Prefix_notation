@@ -28,6 +28,6 @@ polsk_calculate.o: polsk_calculate.c
 	$(CC) $(CFLAGS) $(FLAGS) polsk_calculate.c
 
 clean:
-	rm -rf *.o
+	rm -rf *.o ../build/graph
 
 rebuild: clean all
