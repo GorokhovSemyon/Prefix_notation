@@ -20,4 +20,4 @@ After entering the above commands, a mathematical expression is expected to be e
 - Unary minus operation is not supported
 
 ### Example of function output
-[image](https://github.com/GorokhovSemyon/Prefix_notation/blob/develop/materials/sin(cos(x)).png)
+![image](https://github.com/GorokhovSemyon/Prefix_notation/blob/develop/materials/sin(cos(x)).png)
