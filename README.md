@@ -18,3 +18,6 @@ After entering the above commands, a mathematical expression is expected to be e
 ### Notes 
 - The ordinate axis is reversible.
 - Unary minus operation is not supported
+
+### Example of function output
+[image](https://github.com/GorokhovSemyon/Prefix_notation/blob/develop/materials/sin(cos(x)).png)
