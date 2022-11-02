@@ -15,6 +15,6 @@ $ ./graph
 ### General
 After entering the above commands, a mathematical expression is expected to be entered into the terminal, it can be a function or a constant expression.
 
-###Notes 
+### Notes 
 - The ordinate axis is reversible.
 - Unary minus operation is not supported
